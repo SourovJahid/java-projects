@@ -42,7 +42,8 @@ When you run the project, the views should be found by Spring Boot and you shoul
 ![configurations](image.png)
 
 # Workflow
-- ![image](https://github.com/SourovJahid/java-projects/assets/81226571/69951cb7-65e2-4225-8681-2542859aaec6)
+- ![4](https://github.com/SourovJahid/java-projects/assets/34420616/f0179ef1-715a-48d0-9f12-713b10d9ce33)
+
 ### Controller
 - control the endpoint and also send data to view( we use ModelAndView method)
 - ``` @GetMapping("login")
