@@ -86,7 +86,8 @@ The following guides illustrate how to use some features concretely:
 * [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
 ## Preview
+![1](https://github.com/SourovJahid/java-projects/assets/34420616/308057f8-7891-4315-92fc-09ca05f77b7f)
+![2](https://github.com/SourovJahid/java-projects/assets/34420616/8293163b-77f5-4fae-b491-611e7957c151)
+![3](https://github.com/SourovJahid/java-projects/assets/34420616/d40e2001-65da-4ed8-934f-49bffe070bbb)
 
-![image](https://github.com/SourovJahid/java-projects/assets/81226571/02a04d3c-1fc9-418c-b231-639f6525d07e)
-![image](https://github.com/SourovJahid/java-projects/assets/81226571/24c4451b-43a6-4c23-a78a-786eab4303b0)
-![image](https://github.com/SourovJahid/java-projects/assets/81226571/93c1baeb-326c-450f-867e-a883900a6644)
+
